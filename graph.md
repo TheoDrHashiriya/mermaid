@@ -12,6 +12,7 @@ gdirov-->gdirovtxt
 gdirex["**Examples**"]
 gdirex1["**One-Way Roads**
 <p style='text-align:left;'>One-way roads direct traffic in a single direction. These roads can be represented as edges which point to other locations.</p>"]
+gdirex-->gdirex1
 
 gdir-->gdirov & gdirex
 
